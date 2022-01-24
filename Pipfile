@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scikit-learn = "*"
+gym = {extras = ["all", "atari", "accept-rom-license"], version = "*"}
+pyglet = "*"
+pydotplus = "*"
+matplotlib = "*"
+box2d = "*"
+box2d-kengz = "*"
+mujoco-py = "*"
+stable-baselines = "*"
+tensorflow = "==1.14"
+pydot = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
