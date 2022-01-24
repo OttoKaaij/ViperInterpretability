@@ -1,7 +1,7 @@
 # Interpretability and Performance of Decision Trees Extracted by Viper
 
 Code used to evaluate the interpretability of decision trees produced by Viper, 
-an Imitation Learning algorithm[1](https://arxiv.org/abs/1805.08328).
+an Imitation Learning algorithm[[1]](https://arxiv.org/abs/1805.08328).
 
 Q-Learning code adapted from [https://github.com/guillaumefrd/q-learning-mountain-car](https://github.com/guillaumefrd/q-learning-mountain-car). 
 Viper code adapted from [https://github.com/obastani/viper](https://github.com/obastani/viper)
